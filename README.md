@@ -1,74 +1,74 @@
 # Inmuebles24 Mexico Properties Dataset Sample
 
-<h2>A sample dataset of 1,236 records</h2>
+<h2>Ein Beispiel-Datensatz mit 1.236 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Inmuebles24-Mexico-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Inmuebles24 Mexico Properties Dataset Sample** includes **1,236 records** and was extracted using the **Bright Data API**.
+Dieses **Inmuebles24 Mexico Properties Dataset Sample** umfasst **1.236 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The unique web address for the property listing on Inmuebles24. |
-| `Title` | The main title of the property listing as provided by the seller. |
-| `GeneratedTitle` | A system-generated title summarizing property details such as type and size. |
-| `Description` | A detailed description of the property including features and location. |
-| `Seller` | The name or identifier of the individual or organization selling the property. |
-| `Precio` | The listed price of the property in the specified currency. |
-| `Publicado_hace` | The time elapsed since the property was listed, expressed in days. |
-| `CreatedDate` | The date when the property listing was created on the platform. |
-| `Visualizaciones` | The number of times the property listing has been viewed. |
-| `Dimension_terreno` | The total land area of the property in square meters. |
-| `Dimension_propiedad` | The built or covered area of the property in square meters. |
-| `Estacionamiento` | The number of parking spaces available with the property. |
-| `Banos` | The number of bathrooms within the property. |
-| `Dormitorios` | The number of bedrooms in the property. |
-| `Antiguedad` | The age of the property, typically in years. |
-| `pictures` | Links or identifiers for images of the property included in the listing. |
-| `videos` | Links or identifiers for videos of the property included in the listing. |
-| `Tipo_de_inmueble` | The type of property, such as apartment, house, or commercial space. |
-| `Tipo_de_operacion` | The type of transaction, such as sale or rent. |
-| `Tipovendedor` | The type of seller, such as owner or real estate agent. |
-| `Phone1` | The primary contact phone number for inquiries about the property. |
-| `whatsApp` | The WhatsApp contact number for instant messaging inquiries. |
-| `Operacion` | Specifies the operation type, such as purchase or lease. |
-| `Region` | The broader geographical region where the property is located. |
-| `Zona` | The specific zone or neighborhood of the property. |
-| `Ciudad` | The city in which the property is situated. |
-| `Provincia` | The province or state where the property is located. |
-| `Direccion` | The complete address of the property. |
-| `Superdestacado` | Indicates if the listing is featured or highlighted on the platform. |
-| `postingId` | A unique identifier for the property listing. |
-| `postingCode` | A code representing the property listing, often used internally. |
-| `publisher` | The publisher or platform through which the listing is advertised. |
-| `premier` | Indicates if the listing has a premier status or enhanced visibility. |
-| `URL` | The direct URL to the property listing. |
-| `aviso_finalizado` | Indicates if the listing has been finalized or closed. |
-| `currency` | The currency in which the property's price is listed. |
-| `latitude` | The geographic latitude coordinate of the property. |
-| `longitude` | The geographic longitude coordinate of the property. |
+| `url` | Die eindeutige Webadresse für das Immobilieninserat auf Inmuebles24. |
+| `Title` | Der Haupttitel des Immobilieninserats, wie vom Verkäufer angegeben. |
+| `GeneratedTitle` | Ein systemgenerierter Titel, der Immobiliendetails wie Typ und Größe zusammenfasst. |
+| `Description` | Eine detaillierte Beschreibung der Immobilie einschließlich Merkmale und Standort. |
+| `Seller` | Der Name oder die Kennung der Person oder Organisation, die die Immobilie verkauft. |
+| `Precio` | Der ausgeschriebene Preis der Immobilie in der angegebenen Währung. |
+| `Publicado_hace` | Die seit der Veröffentlichung des Inserats verstrichene Zeit, in Tagen angegeben. |
+| `CreatedDate` | Das Datum, an dem das Immobilieninserat auf der Plattform erstellt wurde. |
+| `Visualizaciones` | Die Anzahl der Aufrufe des Immobilieninserats. |
+| `Dimension_terreno` | Die gesamte Grundstücksfläche der Immobilie in Quadratmetern. |
+| `Dimension_propiedad` | Die bebaute bzw. überdachte Fläche der Immobilie in Quadratmetern. |
+| `Estacionamiento` | Die Anzahl der mit der Immobilie verfügbaren Stellplätze. |
+| `Banos` | Die Anzahl der Badezimmer in der Immobilie. |
+| `Dormitorios` | Die Anzahl der Schlafzimmer in der Immobilie. |
+| `Antiguedad` | Das Alter der Immobilie, typischerweise in Jahren. |
+| `pictures` | Links oder Kennungen zu Bildern der Immobilie, die im Inserat enthalten sind. |
+| `videos` | Links oder Kennungen zu Videos der Immobilie, die im Inserat enthalten sind. |
+| `Tipo_de_inmueble` | Der Immobilientyp, z. B. Wohnung, Haus oder Gewerbefläche. |
+| `Tipo_de_operacion` | Die Art der Transaktion, z. B. Verkauf oder Vermietung. |
+| `Tipovendedor` | Der Verkäufertyp, z. B. Eigentümer oder Immobilienmakler. |
+| `Phone1` | Die primäre Kontakttelefonnummer für Anfragen zur Immobilie. |
+| `whatsApp` | Die WhatsApp-Kontaktnummer für Sofortnachrichten-Anfragen. |
+| `Operacion` | Gibt die Art der Operation an, z. B. Kauf oder Leasing. |
+| `Region` | Die übergeordnete geografische Region, in der sich die Immobilie befindet. |
+| `Zona` | Die spezifische Zone oder Nachbarschaft der Immobilie. |
+| `Ciudad` | Die Stadt, in der sich die Immobilie befindet. |
+| `Provincia` | Die Provinz bzw. der Bundesstaat, in dem sich die Immobilie befindet. |
+| `Direccion` | Die vollständige Adresse der Immobilie. |
+| `Superdestacado` | Gibt an, ob das Inserat auf der Plattform hervorgehoben oder als Featured markiert ist. |
+| `postingId` | Eine eindeutige Kennung für das Immobilieninserat. |
+| `postingCode` | Ein Code, der das Immobilieninserat repräsentiert und häufig intern verwendet wird. |
+| `publisher` | Der Publisher bzw. die Plattform, über die das Inserat beworben wird. |
+| `premier` | Gibt an, ob das Inserat einen Premier-Status bzw. eine erhöhte Sichtbarkeit hat. |
+| `URL` | Die direkte URL zum Immobilieninserat. |
+| `aviso_finalizado` | Gibt an, ob das Inserat abgeschlossen oder geschlossen wurde. |
+| `currency` | Die Währung, in der der Immobilienpreis angegeben ist. |
+| `latitude` | Die geografische Breitengradkoordinate der Immobilie. |
+| `longitude` | Die geografische Längengradkoordinate der Immobilie. |
 
 
 ## Use Cases
 
-### 1. Real Estate Market Analysis
-Analyze property trends and pricing in Mexico to help real estate professionals make data-driven investment decisions.
+### 1. Analyse des Immobilienmarkts
+Analysieren Sie Immobilientrends und Preisgestaltung in Mexiko, um Immobilienprofis bei datengestützten Investitionsentscheidungen zu unterstützen.
 
-### 2. Competitive Benchmarking
-Compare listings across various regions to evaluate competitive positioning and optimize property marketing strategies.
+### 2. Wettbewerbs-Benchmarking
+Vergleichen Sie Inserate in verschiedenen Regionen, um die Wettbewerbsposition zu bewerten und Immobilien-Marketingstrategien zu optimieren.
 
-### 3. Urban Development Planning
-Utilize geographic and property data to support urban planners in designing sustainable and efficient city infrastructures.
+### 3. Stadtentwicklungsplanung
+Nutzen Sie geografische und immobilienspezifische Daten, um Stadtplaner bei der Gestaltung nachhaltiger und effizienter städtischer Infrastrukturen zu unterstützen.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -88,8 +88,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach unterschiedlichen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Lieferung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -98,14 +98,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Data Points basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full Inmuebles24 Mexico Properties dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Rufen Sie den vollständigen Inmuebles24 Mexico Properties dataset ab](https://brightdata.de/products/datasets/real-estate)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschern, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugriff auf **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[ready-to-use datasets](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugriff unter [brightinitiative.com](https://brightinitiative.com).
