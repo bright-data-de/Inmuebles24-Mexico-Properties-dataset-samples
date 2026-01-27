@@ -3,7 +3,7 @@
 <h2>Ein Beispiel-Datensatz mit 1.236 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Inmuebles24-Mexico-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Inmuebles24-Mexico-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Inmuebles24 Mexico Properties Dataset Sample** umfasst **1.236 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
